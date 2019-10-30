@@ -8,8 +8,8 @@ sections:
         url: /contact
     component: HeroBlock
     content: >-
-      Olá, me chamo Ruan Aragão. Sou desenvolvedor Front-end, apaixonado pelo
-      compartilhamento de conhecimento e a cada dia mais pelo mundo Open Source.
+      Sou desenvolvedor Front-end, apaixonado pelo compartilhamento de
+      conhecimento e a cada dia mais pelo mundo Open Source.
     section_id: hero
     type: heroblock
   - actions:
