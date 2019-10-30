@@ -1,34 +1,39 @@
 {
-    "links": [
-        {
-            "type": "twitter",
-            "title": "Twitter",
-            "icon": "fa-twitter",
-            "url": "https://twitter.com/RuanAragao"
-        },
-        {
-            "type": "instagram",
-            "title": "Instagram",
-            "icon": "fa-instagram",
-            "url": "https://www.instagram.com/machineskull"
-        },
-        {
-            "type": "github",
-            "title": "GitHub",
-            "icon": "fa-github",
-            "url": "https://github.com/RuanAragao"
-        },
-        {
-            "type": "linkedin",
-            "title": "LinkedIn",
-            "icon": "fa-linkedin",
-            "url": "https://www.linkedin.com/in/ruanaragao"
-        },
-        {
-            "type": "devto",
-            "title": "DEV",
-            "icon": "fa-dev",
-            "url": "https://dev.to/ruanaragao"
-        }
-    ]
+  "links": [
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/RuanAragao"
+    },
+    {
+      "type": "instagram",
+      "title": "Instagram",
+      "icon": "fa-instagram",
+      "url": "https://www.instagram.com/machineskull"
+    },
+    {
+      "type": "github",
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/RuanAragao"
+    },
+    {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/ruanaragao"
+    },
+    {
+      "type": "devto",
+      "title": "DEV",
+      "icon": "fa-dev",
+      "url": "https://dev.to/ruanaragao"
+    },
+    {
+      "title": "Behance",
+      "icon": "fa-behance",
+      "url": "https://www.behance.net/ruanaragao"
+    }
+  ]
 }
