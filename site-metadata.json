@@ -1,21 +1,21 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "Ruan Aragão",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
+        "title": "Ruan Argão",
+        "tagline": "Full Metal Develop",
         "profile_img": "images/avatar.png",
         "bg": "dark",
         "has_nav": true,
         "has_social": true
     },
     "footer": {
-        "content": "&copy; All rights reserved.",
+        "content": "(CC) Creative Commons BY-SA.",
         "links": [
             {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
+                "text": "By Ruan Aragão",
+                "url": "https://ruanaragao.github.io",
                 "new_window": true
             }
         ]
