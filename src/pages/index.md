@@ -1,23 +1,17 @@
 ---
 title: Home
 sections:
-  - component: HeroBlock
+  - actions:
+      - label: Ler mais sobre mim
+        url: /about
+      - label: Entrar em contato
+        url: /contact
+    component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Olá, me chamo Ruan Aragão. Sou desenvolvedor Front-end, apaixonado pelo
+      compartilhamento de conhecimento e a cada dia mais pelo mundo Open Source.
     section_id: hero
     type: heroblock
-  - actions:
-      - label: Contact Me
-        url: /contact
-    component: ContentBlock
-    content: >-
-      Olá, me chamo **Ruan Aragão**. Sou desenvolvedor Front-end, apaixonado
-      pelo compartilhamento de conhecimento e a cada dia mais pelo mundo Open
-      Source.
-    section_id: about
-    title: About
-    type: contentblock
   - actions:
       - label: View Blog
         url: blog/index.html
