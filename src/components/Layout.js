@@ -34,7 +34,7 @@ export default class Body extends React.Component {
                     <meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png" />
                     <meta name="theme-color" content="#ffffff" />
 
-                    <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i" rel="stylesheet"/>
+                    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,400,400i,700,700i" rel="stylesheet"/>
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
                     {(_.get(this.props, 'pageContext.frontmatter.template') === 'post') &&  
                     _.get(this.props, 'pageContext.frontmatter.canonical_url') && 
