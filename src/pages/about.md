@@ -1,6 +1,6 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work.
+title: Me
+subtitle: Um pouquinho sobre minha pessoa
 img_path: /images/37627755_10204897521394430_911429525210923008_n.jpg
 menus:
   main:
