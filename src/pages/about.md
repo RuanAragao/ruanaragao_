@@ -12,7 +12,7 @@ Olá, me chamo **Ruan Aragão**. Sou desenvolvedor Front-end, apaixonado pelo co
 
 Sempre na procura em obter conhecimento nas mais diversas áreas, procurando entender e somar de alguma forma em cada uma delas. Nunca me contentei em apenar usar algo da forma que chega à mim, a curiosidade em saber como funciona e tentar modificar aquilo de alguma forma, aperfeiçoar, ou simplesmente personalizar, sempre estiveram comigo. 
 
-Atualmente trabalho principalmente na [Shopmaior](https://shopmaior.com.br), uma start up que visa auxiliar as empresas (informais, micros, pequenas) no mundo digital, fornecendo serviços desde consultoria até plataformas de vendas online. E sempre que possível gerar e colaborar para projetos [Open Source](https://github.com/shopmaior). Esse ano tivemos a honra de organizar, em conjunto com [Teresina Hacker Clube](https://teresinahc.github.io) e [PyLadies Teresina](https://pyladiesteresina.github.io), o [Hacktoberfest Teresina](https://hacktoberfest.shopmaior.com.br)!
+Atualmente trabalho principalmente na [Shopmaior](https://shopmaior.com.br), uma start up que visa auxiliar as empresas (informais, micros, pequenas) no mundo digital, fornecendo serviços desde consultoria até plataformas de vendas online. E sempre que possível gerar e colaborar para projetos [Open Source](https://github.com/shopmaior). No ano de 2019 tivemos a honra de organizar, em conjunto com [Teresina Hacker Clube](https://teresinahc.github.io) e [PyLadies Teresina](https://pyladiesteresina.github.io), o [Hacktoberfest Teresina](https://hacktoberfest.shopmaior.com.br)!
 
 Além do front-end também tenho conhecimento em back-end, vindo do C, passando por PHP, Ruby, Python e tudo mais.
 
