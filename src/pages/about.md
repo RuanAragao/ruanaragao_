@@ -26,7 +26,7 @@ No projeto eu sou desenvolvedor, designer, fotografo, atleta e tudo mais que pre
 
 Mas "além da tecnologia" (nem foge tanto assim) quero abordar outras experiencias importantes na minha vida.
 
-Sou Bombeiro Civil e Socorrista, cursando Tec. em Enfermagem. Fundador e atual presidente do [GRAUC](https://grauc.github.io/), um grupo de resgate voluntário na cidade de Campo Maior - PI.
+Sou Bombeiro Civil Tec. Especialista em Urgência e Emergência. Fundador e coordenador do [GRAUC](https://grauc.github.io/), um grupo de resgate voluntário na cidade de Campo Maior - PI.
 
 Com diversos cursos e aperfeiçoamentos na área de resgate e atendimento de urgência. Atuando como instrutor na área, algo que amo!
 
